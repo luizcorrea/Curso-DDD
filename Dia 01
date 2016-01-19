@@ -94,7 +94,9 @@ Mapeamento de contextos (fundamental para o entendimento)
         serviços (rest, webservice...)
 
 Aula 06 - Arquitetura
-Arquitetura Exagonal
+Arquitetura Hexagonal (o dominio fornece adaptadores para comunicação com outros serviços)
 http://alistair.cockburn.us/Hexagonal+architecture
+
+Domain Events (o dominio fica livre de adaptadores)
 
 
