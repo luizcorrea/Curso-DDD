@@ -100,3 +100,10 @@ http://alistair.cockburn.us/Hexagonal+architecture
 Domain Events (o dominio fica livre de adaptadores)
 Arquitetura CQRS.
 
+Usando webfroms com mvc
+http://www.codeproject.com/Articles/36898/Model-View-Controller-using-ASP-NET-WebForms-View
+
+http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/using-web-api-with-aspnet-web-forms
+http://www.webdevelopmenthelp.net/2014/05/using-web-api-with-web-forms.html
+http://rachelappel.com/integrating-aspnet-web-forms-and-aspnetmvc
+https://www.sitecore.net/da-dk/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2012/06/using-web-forms-and-mvc-in-a-single-solution-with-the-sitecore-aspnet-cms.aspx
