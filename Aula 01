@@ -49,6 +49,9 @@ GUT (Gravidade, Urgencia e Tendencia) - classificação de prioridades
 decompor o dominio
 dominio de negocio x modelagem de dominio - devemos manter essa Sinergia
 
+ferramenta sonar
+http://blogs.msdn.com/b/visualstudioalm/archive/2015/09/29/quickstart-analyzing-net-projects-with-sonarqube-msbuild-or-visual-studio-online-and-third-party-analyzers-stylecop-resharper.aspx
+
 
 
 
