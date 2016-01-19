@@ -25,6 +25,7 @@ Aula 02 - Desafios no desenvolvimento de softwares complexos
 
 desafio 1 - o entendimento de todos sobre o domínio
 Captação de requisitos WGT --> transferidos para o BDD (Exemplo da Petrobras)
+https://www.ebgconsulting.com/blog/using-given-when-then-to-discover-and-validate-requirements-2/
 
 Sinergia = Negócio + Código
 
@@ -44,6 +45,8 @@ Iconix
 CRC - Cards
 BDD - BetterSpecs 1.4.0
 GUT (Gravidade, Urgencia e Tendencia) - classificação de prioridades
+
+http://martinfowler.com/bliki/GivenWhenThen.html
 
 
 decompor o dominio
@@ -65,7 +68,4 @@ https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=30&ved=0ahUKEwj
 
 
 devemos focar em reaproveitar contextos ao inves de classes.
-
-
-
 
