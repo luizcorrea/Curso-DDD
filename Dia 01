@@ -160,10 +160,10 @@ A equipe financeira é responsável pela baixa e cobrança das parcelas dos cré
 
 Financiamento (Core)
 
-    Captacao de Clientes (Dominio)
-    Analise de Credito (Dominio) 
-    Financeiro (Dominio)
+    Captacao de Clientes (Sub Dominio)
+    Analise de Credito (Sub Dominio) 
+    Financeiro (Sub Dominio)
         Cobrança (Contexto)
         Baixa (Contexto)
     
-Todo subdominio tera um contexto ligado a ele.
+Todo subdominio tera um ou mais contextos ligado a ele.
