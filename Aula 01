@@ -1,0 +1,17 @@
+O que é Dominio
+- Abstração rigorosamente organizada e seletiva daquele conhecimento
+- São nichos de sentidos nos quais experiencias ficam estocadas
+
+O que é design
+* Toda arquitetura tem um design mas nem todo design tem uma arquitetura
+* é uma etapa anterior a implementação
+
+DDD
+uma estratégia aplicável ao desenvolvimento de software guiada pela construção de modelos
+
+Valores do DDD
+Foco na colaboração (livro: principios, padroes e praticas do DDD)
+    é fundamental conhecer a regra de negocio
+Foco na linguagem de domínio (ubiquitos language)
+
+
