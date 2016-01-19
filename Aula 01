@@ -10,8 +10,16 @@ DDD
 uma estratégia aplicável ao desenvolvimento de software guiada pela construção de modelos
 
 Valores do DDD
+
 Foco na colaboração (livro: principios, padroes e praticas do DDD)
     é fundamental conhecer a regra de negocio
+
 Foco na linguagem de domínio (ubiquitos language)
+
+Foco na organização
+    - codigo organizado é imprescindivel
+    - DDD é sobre redução de complexidade
+    - Arquitetura é sobre intenção
+ 
 
 
