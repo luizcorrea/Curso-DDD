@@ -70,3 +70,18 @@ https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=30&ved=0ahUKEwj
 devemos focar em reaproveitar contextos ao inves de classes.
 
 Aula 05
+
+A nossa mente tenta sempre estabilizar a desordem.
+
+Padrões
+    Camadas
+    Camada de domínio
+    Aplicação
+    Persistencia
+    Interface
+
+As camadas nos ajudam a agrupar os elementos iguais
+para pensar mais em escalabilidade e distribuição precisamos expandir o conceito de camadas.
+A estrategia de bouded context nos ajuda a isolar camadas em contextos
+O objetivo seria transformar os contextos em serviços.
+
