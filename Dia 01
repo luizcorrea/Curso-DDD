@@ -85,3 +85,13 @@ para pensar mais em escalabilidade e distribuição precisamos expandir o concei
 A estrategia de bouded context nos ajuda a isolar camadas em contextos
 O objetivo seria transformar os contextos em serviços.
 
+DDD não é arquitetura, mas sim sugestões de solução de problemas.
+
+Mapeamento de contextos (fundamental para o entendimento)
+    comunicação entre contextos
+        banco de dados
+        codigo compartilhado
+        serviços (rest, webservice...)
+
+
+
