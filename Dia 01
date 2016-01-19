@@ -119,13 +119,13 @@ A CREDPlus Microcrédito para pequenos empreendedores.
 Seu principal produto são financiamento de linhas de crédito de até R$ 20.000,00. 
 Para a CREDPlus o pequeno empreendedor é toda pessoa jurídica com faturamento até R$ 100.000,00 anual. 
 
-Para se tornar um novo cliente da CREDPlus é preciso: 
-    ter um CNPJ Válido, 
-    comprovante de endereço, 
-    informar os rendimentos, 
-    email, 
-    telefone (celular), 
-    CPF(s) válido(s) do(s) proprietário(s), que não devem possuir registro nos sistemas de proteção de crédito (SPC). 
+    Para se tornar um novo cliente da CREDPlus é preciso: 
+        ter um CNPJ Válido, 
+        comprovante de endereço, 
+        informar os rendimentos, 
+        email, 
+        telefone (celular), 
+        CPF(s) válido(s) do(s) proprietário(s), que não devem possuir registro nos sistemas de proteção de crédito (SPC). 
 
 A Aprovação de Crédito é responsabilidade pela equipe de análise de crédito 
     cuja responsabilidade é verificar 
@@ -148,8 +148,8 @@ Este risco é uma faixa de três status que são:
     alto. 
 baixo risco pode financiar:
     Baixo: 12x, 
-    médio: 6x, 
-    baixo: 3x. 
+    Médio: 6x, 
+    Alto: 3x. 
 
 Os valores do crédito estão condicionados a este risco: 
     baixo risco pode obter até 20.000,00 de crédito, 
@@ -157,3 +157,13 @@ Os valores do crédito estão condicionados a este risco:
     alto risco até 5.000,00. 
 
 A equipe financeira é responsável pela baixa e cobrança das parcelas dos créditos liberados.
+
+Financiamento (Core)
+
+    Captacao de Clientes (Dominio)
+    Analise de Credito (Dominio) 
+    Financeiro (Dominio)
+        Cobrança (Contexto)
+        Baixa (Contexto)
+    
+Todo subdominio tera um contexto ligado a ele.
