@@ -30,5 +30,26 @@ Sinergia = Negócio + Código
 
 Aula 03
 
+Como do DDD Gerencia as complexidades (good design is imperfect design - video na infoq) - Ver artigo julie lerman sobre bouded contexts
+- Destilando o problema para revelar o que realmente importa
+- Criando modelos para resolver problemas de domínios
+
+
+Aula 04
+
+Fragmentar em pequenos contextos para entender melhor o dominio
+figura I.1 - patterns, and principles book
+
+Iconix
+CRC - Cards
+BDD - BetterSpecs 1.4.0
+GUT (Gravidade, Urgencia e Tendencia) - classificação de prioridades
+
+
+decompor o dominio
+dominio de negocio x modelagem de dominio - devemos manter essa Sinergia
+
+
+
 
 
