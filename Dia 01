@@ -98,5 +98,5 @@ Arquitetura Hexagonal (o dominio fornece adaptadores para comunicação com outr
 http://alistair.cockburn.us/Hexagonal+architecture
 
 Domain Events (o dominio fica livre de adaptadores)
-
+Arquitetura CQRS.
 
