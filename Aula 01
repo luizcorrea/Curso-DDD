@@ -51,6 +51,9 @@ dominio de negocio x modelagem de dominio - devemos manter essa Sinergia
 
 ferramenta sonar
 http://blogs.msdn.com/b/visualstudioalm/archive/2015/09/29/quickstart-analyzing-net-projects-with-sonarqube-msbuild-or-visual-studio-online-and-third-party-analyzers-stylecop-resharper.aspx
+http://choudhury.com/blog/2011/06/12/using-sonar-for-your-net-project/
+http://www.visualstudiogeeks.com/blog/sonarqube/devops/Configure-TFS2015-with-SonarQube-using-BuildTask-to-Track-Technical-Debt/
+
 
 
 
