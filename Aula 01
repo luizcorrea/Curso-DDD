@@ -53,6 +53,13 @@ ferramenta sonar
 http://blogs.msdn.com/b/visualstudioalm/archive/2015/09/29/quickstart-analyzing-net-projects-with-sonarqube-msbuild-or-visual-studio-online-and-third-party-analyzers-stylecop-resharper.aspx
 http://choudhury.com/blog/2011/06/12/using-sonar-for-your-net-project/
 http://www.visualstudiogeeks.com/blog/sonarqube/devops/Configure-TFS2015-with-SonarQube-using-BuildTask-to-Track-Technical-Debt/
+http://www.happiestminds.com/blogs/how-to-set-up-sonar-on-jenkins-for-net-projects/
+
+https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=23&ved=0ahUKEwjnnJC3_rXKAhWMgpAKHfoHBYQ4FBAWCCcwAg&url=http%3A%2F%2Fjeremiahfadams.blogspot.com%2F2013%2F01%2Fcode-quality-code-metrics-for-c-using.html&usg=AFQjCNETsWw7_VzbbmOwckzXWPSRqJFoew&sig2=0FX3LvREwLBiOGgb9xcC3g&bvm=bv.112064104,d.Y2I&cad=rja
+
+https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=25&ved=0ahUKEwjnnJC3_rXKAhWMgpAKHfoHBYQ4FBAWCDgwBA&url=http%3A%2F%2Fsharedtolearn.blogspot.com%2F2012%2F10%2Finstall-and-configure-sonar-on-windows.html&usg=AFQjCNENMayEEx5DJjgt5HjK8hpfn5ijHA&sig2=jmCB4k1LnwVebMxpxW7zeA&bvm=bv.112064104,d.Y2I&cad=rja
+
+https://www.google.com.br/url?sa=t&rct=j&q=&esrc=s&source=web&cd=30&ved=0ahUKEwjnnJC3_rXKAhWMgpAKHfoHBYQ4FBAWCGAwCQ&url=http%3A%2F%2Fvunvulearadu.blogspot.com%2F2014%2F03%2Ftips-and-tricks-to-configure-sonar-qube.html&usg=AFQjCNFNEhTIDLL6szweDEGJY0vPfRUeEQ&sig2=wNWEaJPoQ3gtZr1VxDXm7A&bvm=bv.112064104,d.Y2I&cad=rja
 
 -> Bounded contexts - é o que o Yan considera mais importante inicialmente no DDD.
 
