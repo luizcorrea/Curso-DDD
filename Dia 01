@@ -107,3 +107,53 @@ http://www.asp.net/web-api/overview/getting-started-with-aspnet-web-api/using-we
 http://www.webdevelopmenthelp.net/2014/05/using-web-api-with-web-forms.html
 http://rachelappel.com/integrating-aspnet-web-forms-and-aspnetmvc
 https://www.sitecore.net/da-dk/learn/blogs/technical-blogs/john-west-sitecore-blog/posts/2012/06/using-web-forms-and-mvc-in-a-single-solution-with-the-sitecore-aspnet-cms.aspx
+
+
+-------------- Exemplo CRED Plus
+A CREDPlus é uma financeira especializada em microcrédito para pequenos empreendedores. 
+Seu principal produto são financiamento de linhas de crédito de até R$ 20.000,00 para capital de giro ou equipamentos. 
+Estes créditos possuem taxas de juros baixas em relação ao mercado e são compatíveis com as faixas de valor do empréstimo solicitado. Para a CREDPlus o pequeno empreendedor é toda pessoa jurídica com faturamento até R$ 100.000,00 anual. Para captar novos clientes, a Financeira, possui uma ampla equipe de captação de cliente que realiza novos cadastros, bem como é responsável pela atualização dos registros dos antigos clientes. Para se tornar um novo cliente da CREDPlus, é preciso ter um CNPJ Válido, comprovante de endereço, informar os rendimentos, email, telefone (celular), CPF(s) válido(s) do(s) proprietário(s), que não devem possuir registro nos sistemas de proteção de crédito (SPC). A Aprovação de Crédito é responsabilidade pela equipe de análise de crédito, cuja responsabilidade é verificar a viabilidade da solicitação de crédito. Todo crédito aprovado gera uma notificação para os novos clientes informando que seu crédito foi aprovado. Essa notificação pode ser por email ou sms. Um grande diferencial da CREDPlus é que ela possui um portal no qual os clientes podem confirmar a solicitação do crédito, bem como informar as condiçoões de pagamento. Por exemplo, um cliente pode optar pagar em 3x, 6x, 10x ou 12x com cheque ou boleto bancário. As condições de pagamento estão condicionadas a avaliação de risco do crédito, bem como a sua faixa de valor. Este risco é uma faixa de três status que são: baixo, médio, alto. baixo risco pode financiar até 12x, médio até 6x, baixo apenas 3x. Os valores do crédito estão condicionados a este risco: baixo risco pode obter até 20.000,00 de crédito, médio até 10.000,00, alto risco até 5.000,00. A equipe financeira é responsável pela baixa e cobrança das parcelas dos créditos liberados.
+
+----------------------------------------------------Resumo
+A CREDPlus Microcrédito para pequenos empreendedores. 
+Seu principal produto são financiamento de linhas de crédito de até R$ 20.000,00. 
+Para a CREDPlus o pequeno empreendedor é toda pessoa jurídica com faturamento até R$ 100.000,00 anual. 
+
+Para se tornar um novo cliente da CREDPlus é preciso: 
+    ter um CNPJ Válido, 
+    comprovante de endereço, 
+    informar os rendimentos, 
+    email, 
+    telefone (celular), 
+    CPF(s) válido(s) do(s) proprietário(s), que não devem possuir registro nos sistemas de proteção de crédito (SPC). 
+
+A Aprovação de Crédito é responsabilidade pela equipe de análise de crédito 
+    cuja responsabilidade é verificar 
+        a viabilidade da solicitação de crédito. 
+
+Todo crédito aprovado gera uma notificação para os novos clientes informando que seu crédito foi aprovado. 
+    Essa notificação pode ser por email ou sms. 
+ 
+um cliente pode optar pagar em: 
+    3x 
+    6x 
+    10x
+    12x 
+com cheque ou boleto bancário. 
+
+As condições de pagamento estão condicionadas a avaliação de risco do crédito, bem como a sua faixa de valor. 
+Este risco é uma faixa de três status que são: 
+    baixo, 
+    médio, 
+    alto. 
+baixo risco pode financiar:
+    Baixo: 12x, 
+    médio: 6x, 
+    baixo: 3x. 
+
+Os valores do crédito estão condicionados a este risco: 
+    baixo risco pode obter até 20.000,00 de crédito, 
+    médio até 10.000,00, 
+    alto risco até 5.000,00. 
+
+A equipe financeira é responsável pela baixa e cobrança das parcelas dos créditos liberados.
